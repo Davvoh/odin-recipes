@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    background-color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: blue;
+    text-align: center
+}
+
+.steps {
+    background-color: crimson;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: tomato;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: blue;
+    color: coral;
+    text-align: center;
+}
